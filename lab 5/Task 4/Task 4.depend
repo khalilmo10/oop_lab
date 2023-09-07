@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694110252 source:d:\oop task 4\task 4\main.cpp
+	<iostream>
+	"employee.h"
+
+1694109730 d:\oop task 4\task 4\include\employee.h
+	<iostream>
+
+1694109852 source:d:\oop task 4\task 4\src\employee.cpp
+	"employee.h"
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1694101416 source:d:\oop task modifcation 2\task 2\main.cpp
+	<iostream>
+	"student.h"
+
+1694101442 d:\oop task modifcation 2\task 2\include\student.h
+	<iostream>
+
+1694100763 source:d:\oop task modifcation 2\task 2\src\student.cpp
+	"student.h"
+	<iostream>
+
+1694103858 source:d:\oop task 3\task 3\main.cpp
+	<iostream>
+	"student.h"
+
+1694102786 d:\oop task 3\task 3\include\student.h
+	<iostream>
+
+1694103530 source:d:\oop task 3\task 3\src\student.cpp
+	"student.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694082716 source:d:\task 1\src\saving.cpp
+	"saving.h"
+	<iostream>
+
+1694082941 d:\task 1\include\saving.h
+
+1694082277 source:d:\task 1\main.cpp
+	<iostream>
+	"saving.h"
+
