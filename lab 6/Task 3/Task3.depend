@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695238593 source:d:\oop lab tasks\lab 6\task3\main.cpp
+	<iostream>
+	"rational.h"
+
+1695237257 d:\oop lab tasks\lab 6\task3\include\rational.h
+
+1695238522 source:d:\oop lab tasks\lab 6\task3\src\rational.cpp
+	"rational.h"
+	<iostream>
+

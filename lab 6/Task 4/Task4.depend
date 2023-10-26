@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695241016 source:d:\oop lab tasks\lab 6\task4\main.cpp
+	<iostream>
+	"ZooAnimal.h"
+
+1695241420 source:d:\oop lab tasks\lab 6\task4\src\zooanimal.cpp
+	"ZooAnimal.h"
+	<iostream>
+
+1695241373 d:\oop lab tasks\lab 6\task4\include\zooanimal.h
+	<iostream>
+

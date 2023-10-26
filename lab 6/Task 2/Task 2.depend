@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695285901 source:d:\oop lab tasks\lab 6\task 2\src\matrix3d.cpp
+	"matrix3d.h"
+	<iostream>
+
+1695285901 d:\oop lab tasks\lab 6\task 2\include\matrix3d.h
+
+1695285899 source:d:\oop lab tasks\lab 6\task 2\main.cpp
+	<iostream>
+	"matrix3d.h"
+
