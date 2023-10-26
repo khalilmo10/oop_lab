@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:d:\oop lab tasks\lab 8\accounts\main.cpp
+	<iostream>
+
+1697703612 source:d:\oop lab tasks\lab 8\accounts\src\savingaccount.cpp
+	"SavingAccount.h"
+
+1697703612 d:\oop lab tasks\lab 8\accounts\include\savingaccount.h
+
